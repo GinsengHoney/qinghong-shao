@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in the Department of Computer Science at the University of New Mexico. I am conducting research in the Hand and Machine Group, with Leah Buechley as my research advisor. My research interests focus on developing new programming environments for computational design, 3D printing, and Developing technologies and techniques that integrate computation, fabrication, and craft. I will officially start my studies in the Fall of 2024.
+I am a first-year PhD student in the Department of Computer Science at the **University of New Mexico**. I am conducting research in the **Hand and Machine Group**, with **Leah Buechley** as my research advisor. My research interests focus on developing new programming environments for **Computational Design, 3D Printing**， and Developing technologies and techniques that integrate computation, fabrication, and craft. I will officially start my studies in the Fall of 2024.
 
-Prior to this, from 2020 to 2024, I studied at the School of Software Engineering at Jiangxi Agricultural University. My previous research interests were focused on artificial intelligence technologies, image recognition, image style transfer, and 3D reconstruction, under the guidance of my advisor Yingqiong Peng. I successfully graduated in June 2024 with a Bachelor of Engineering degree and was honored as an Outstanding Graduate.
+Prior to this, from 2020 to 2024, I studied at the School of Software Engineering at **Jiangxi Agricultural University**. My previous research interests were focused on **Artificial Intelligence Technologies, Image Recognition, Image Style Transfer, and 3D reconstruction**, under the guidance of my advisor **Yingqiong Peng**. I successfully graduated in June 2024 with a Bachelor of Engineering degree and was honored as an Outstanding Graduate.
 
-In the summer of 2023, I participated in a short-term study program at the Hong Kong Polytechnic University.
+In the summer of 2023, I participated in a short-term study program at the **Hong Kong Polytechnic University**.
 
 In my free time, I enjoy reading historical books about the dynasties of China, and I also like outdoor activities such as hiking and swimming.
 
