@@ -42,11 +42,9 @@ I highly recommend browsing my past projects,if you want to know more about me!!
 
 （if you would like the English version of my manuscript, please let me know via email and I will send you the English version of the manuscript.）
 
-- #### VR smart farm system——graduation thesis project
-I am currently working on my graduation thesis project, which is an online 3D smart farm where users can interact with VR devices.
-The significance of this project is to provide farmers with a real farm environment to teach and guide them how to manage pest problems on their farms.
-At the same time, this project has a strong relationship with a national innovation and entrepreneurship project for college students that I lead.
-
+- #### Undergraduate Thesis——Corp render based on NeRF
+My undergraduate thesis utilized the popular NeRF model, specifically NVIDIA’s Instant-NGP, to train on a plant dataset. I optimized certain parts of the data upsampling and extraction process, and ultimately rendered 3D plants. Although the fidelity and resolution were not ideal, the rendering only took one minute, which represents a significant improvement.
+ [Demo Video](https://www.youtube.com/shorts/KvSWlHQzo3o)
 - #### Sericulture expert intelligent decision-making system
 I led the team members to develop the "Sangzhidao" Sericulture Expert Intelligent Decision-making System", which is a system that provides farmers with identification and treatment plans for mulberry tree diseases and insect pests. It is designed to help farmers improve production efficiency. The system has been initially developed and has not yet been completed release.
 
